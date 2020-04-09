@@ -1,7 +1,13 @@
 # AluraEniac---Banco-de-Dados
 Micro-certificação Eniac-Alura - Banco de Dados
 
-- Curso Introdução ao SQL com MySQL: Manipule e consulte dados
+
+   - Consultas inteligentes para insights valiosos
+
+        - Você irá instalar e aprenderá a trabalhar com o SQL, usando MySQL. Irá converter e formatar dados e gerar relatórios com as principais funções do SQL.
+        - Fazendo análises em tempo real, poderá obter informações transformadoras para o seu negócio ou empresa onde trabalha.
+        
+   - Curso Introdução ao SQL com MySQL: Manipule e consulte dados
     
     - Faça esse curso de SQL e Banco de Dados e:
        - Saiba instalar e acessar o banco de dados MySQL;
@@ -63,9 +69,9 @@ Micro-certificação Eniac-Alura - Banco de Dados
         - Filtros compostos;
         - Seleção composta;
         - Consolidando o seu conhecimento.
-
-
-- Curso Consultas SQL: Avançando no SQL com MySQL
+        
+        
+    - Curso Consultas SQL: Avançando no SQL com MySQL
 
     - Faça esse curso de SQL e Banco de Dados e:
       - Pagine seus dados com LIMIT;
@@ -136,7 +142,14 @@ Micro-certificação Eniac-Alura - Banco de Dados
         - Vendas percentuais por tamanho.
 
 
-- Curso Comandos DML: Manipulação de dados com MySQL
+   - Avançando em manipulação de dados
+
+        - Agora, você irá se aprimorar na criação de relatórios significativos. Você desenvolverá tabelas com chaves primárias e estrangeiras, entenderá o commit e rollback, auto-incremento, padrões e triggers.
+        - Depois, já estará na hora de fazer o tratamento de erro corretamente e encapsular o código em funções e stored procedures.
+        - Você aprenderá a usar os comandos DML, diversas funções que irão facilitar o seu trabalho na hora de obter dados, usar padrões, e triggers.
+
+ 
+    - Curso Comandos DML: Manipulação de dados com MySQL
 
     - Faça esse curso de SQL e Banco de Dados e:
       - Aprenda mais sobre a modelagem de um banco relacional;
@@ -201,7 +214,7 @@ Micro-certificação Eniac-Alura - Banco de Dados
         - Outras formas de manipulação de dados.
 
 
-- Curso Procedures SQL: Executando código no MySQL
+    - Curso Procedures SQL: Executando código no MySQL
     
     - Faça esse curso de SQL e Banco de Dados e:
       - Saiba implementar Stored Procedures;
@@ -265,9 +278,13 @@ Micro-certificação Eniac-Alura - Banco de Dados
         - Melhorando Triggers;
         - Obtendo as entidades através da função;
         - Aplicando Stored Procedures a Triggers.
+    
+   - Administrando o MySQL Server
 
-
-- Curso Administração do MySQL: Segurança e otimização do banco
+        - Nesta última parte, você conhecerá como é o trabalho do dia a dia de um/uma profissional responsável por gerenciar, instalar, configurar, atualizar e monitorar um banco de dados: um/uma DBA (DataBase Administrator).
+        - Você conhecerá o plano de execução e suas features, os índices e joins. Aprenderá a gerenciar backups e entenderá o que é e como funciona a recuperação.
+        
+    - Curso Administração do MySQL: Segurança e otimização do banco
     
     - Faça esse curso de SQL e Banco de Dados e:
       - Conheça qual é o papel do DBA;
@@ -343,3 +360,11 @@ Micro-certificação Eniac-Alura - Banco de Dados
         Acesso a uma base;
         Revogando privilégios;
         Mudando o acesso.
+
+
+
+
+
+
+
+
