@@ -296,75 +296,67 @@ Micro-certificação Eniac-Alura - Banco de Dados
     - Conteúdo Detalhado:
 
     1- Preparando o ambiente:
-        Instalando o MySQL;
-        DBA - Database Administrator;
-        Funções do DBA;
-        Conexões;
-        Informações para as conexões;
-        Serviço do MySQL;
-        Formas de parar e iniciar o serviço;
-        Recuperando a base de dados.
+      - Instalando o MySQL;
+      - DBA - Database Administrator;
+      - Funções do DBA;
+      - Conexões;
+      - Informações para as conexões;
+      - Serviço do MySQL;
+      - Formas de parar e iniciar o serviço;
+      - Recuperando a base de dados.
     2- Mecanismos de armazenamento:
-        Tuning de Hardware;
-        Pontos importantes do Tuning;
-        Variáveis de ambiente;
-        Valor da variável;
-        Mecanismo de armazenamento MyISAM;
-        Aplicação do mecanismo de armazenamento;
-        InnoDB e Memory;
-        Acesso ao dados;
-        Usando os mecanismos de armazenamento;
-        Mecanismo de armazenamento padrão.
+      - Tuning de Hardware;
+      - Pontos importantes do Tuning;
+      - Variáveis de ambiente;
+      - Valor da variável;
+      - Mecanismo de armazenamento MyISAM;
+      - Aplicação do mecanismo de armazenamento;
+      - InnoDB e Memory;
+      - Acesso ao dados;
+      - Usando os mecanismos de armazenamento;
+      - Mecanismo de armazenamento padrão.
     3- Backup e restore:
-        Criando a base de dados;
-        Comando para a criação da base de dados;
-        Mudando a localização da base;
-        Diretório de criação das bases de dados;
-        Apagando a base de dados;
-        Comando para apagar a base de dados;
-        Realizando o backup com o mysqldump;
-        Backup de uma base de dados;
-        Usando o Workbench para backup;
-        Diretório com o backup das tabelas;
-        Backup de arquivos;
-        Passos para o backup;
-        Recuperando os backups;
-        Programa para recuperar o arquivo.
+      - Criando a base de dados;
+      - Comando para a criação da base de dados;
+      - Mudando a localização da base;
+      - Diretório de criação das bases de dados;
+      - Apagando a base de dados;
+      - Comando para apagar a base de dados;
+      - Realizando o backup com o mysqldump;
+      - Backup de uma base de dados;
+      - Usando o Workbench para backup;
+      - Diretório com o backup das tabelas;
+      - Backup de arquivos;
+      - Passos para o backup;
+      - Recuperando os backups;
+      - Programa para recuperar o arquivo.
     4- Plano de execução e índices:
-        Plano de execução;
-        Consulta mais lenta;
-        Visualizando o plano de execução;
-        Custo da consulta;
-        Conceito de índices;
-        Custo de ter um índice;
-        Algoritmos Hash e BTree;
-        Algoritmo de busca;
-        Usando índices;
-        Índices para melhorar uma consulta;
-        Usando o Workbench;
-        Plano de execução gráfico;
-        A ferramenta mysqlslap;
-        Criando índices.
+      - Plano de execução;
+      - Consulta mais lenta;
+      - Visualizando o plano de execução;
+      - Custo da consulta;
+      - Conceito de índices;
+      - Custo de ter um índice;
+      - Algoritmos Hash e BTree;
+      - Algoritmo de busca;
+      - Usando índices;
+      - Índices para melhorar uma consulta;
+      - Usando o Workbench;
+      - Plano de execução gráfico;
+      - A ferramenta mysqlslap;
+      - Criando índices.
     5- Administrando usuários:
-        Criando um usuário administrador;
-        Excluir o usuário root?;
-        Criando um usuário normal;
-        Propriedades do usuário normal;
-        Criando um usuário para somente leitura;
-        Privilégios READ e EXECUTE;
-        Criando um usuário para backup;
-        Privilégios para o backup;
-        Acessando de qualquer servidor;
-        Intervalo de IPs;
-        Limitando o acesso aos esquemas;
-        Acesso a uma base;
-        Revogando privilégios;
-        Mudando o acesso.
-
-
-
-
-
-
-
-
+      - Criando um usuário administrador;
+      - Excluir o usuário root?;
+      - Criando um usuário normal;
+      - Propriedades do usuário normal;
+      - Criando um usuário para somente leitura;
+      - Privilégios READ e EXECUTE;
+      - Criando um usuário para backup;
+      - Privilégios para o backup;
+      - Acessando de qualquer servidor;
+      - Intervalo de IPs;
+      - Limitando o acesso aos esquemas;
+      - Acesso a uma base;
+      - Revogando privilégios;
+      - Mudando o acesso.
